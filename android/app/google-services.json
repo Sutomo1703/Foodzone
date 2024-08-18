@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1030969863148",
+    "project_id": "foodzone-23448",
+    "storage_bucket": "foodzone-23448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030969863148:android:d591df8b7bedabbc196ec9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_foodzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030969863148-q0h9md9ol0pe2umahebjq6rfm849la8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mf4IdncpQ03Wf-gNbtenB8MPRok1Dzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030969863148-q0h9md9ol0pe2umahebjq6rfm849la8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030969863148-m761a6pq8to7mnbgoso4gj76m83obh5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFoodzone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

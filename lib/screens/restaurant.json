@@ -1,0 +1,362 @@
+[
+  {
+    "category":"Indonesian Food",
+    "menus": [
+      {
+        "name": "Soto Ayam",
+        "price": 30000,
+        "url": "https://sweetrip.id/wp-content/uploads/2021/01/106220990_192214052228039_3832608672111737167_n.jpg"
+      },
+      {
+        "name": "Bakso Sapi + Mie",
+        "price": 25000,
+        "url": "https://img-global.cpcdn.com/recipes/62bc0149e02866d8/1200x630cq70/photo.jpg"
+      },
+      {
+        "name": "Gado-gado",
+        "price": 20000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gado_gado_jakarta.jpg"
+      },
+      {
+        "name": "Nasi Rawon",
+        "price": 35000,
+        "url": "https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-rawon-daging.jpg"
+      },
+      {
+        "name": "Nasi Pecel Lele",
+        "price": 17000,
+        "url": "https://asset.kompas.com/crops/QT6V0LoKz42gr5uezLBcGZyBBLw=/0x0:1000x667/750x500/data/photo/2021/03/21/60569b33a2b3d.jpeg"
+      },
+      {
+        "name": "Nasi Kuning",
+        "price": 15000,
+        "url": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b4a73082-619b-43c5-a4d0-c09b93941e46_Go-Biz_20211006_094409.jpeg?h=302&w=302&fit=crop&auto=compress"
+      },
+      {
+        "name": "Nasi Gudeg",
+        "price": 35000,
+        "url": "https://awsimages.detik.net.id/community/media/visual/2021/05/06/sedep-mlekoh-5-nasi-gudeg-khas-jogja-dengan-lauk-lengkap-3.jpeg?w=700&q=90"
+      },
+      {
+        "name": "Nasi Uduk Ayam Goreng",
+        "price": 23000,
+        "url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/8/7/42d03620-b705-4aae-8b48-6f8943adee90.png"
+      },
+      {
+        "name": "Nasi Goreng Jawa",
+        "price": 20000,
+        "url": "https://blue.kumparan.com/image/upload/c_lpad,b_white,f_jpg,h_900,q_auto,w_1200/g_south,l_og_user_zprw89/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna%0DResep%20Masakan,x_140,y_26/vd7zarfscnh8hv9lszew.jpg"
+      },
+      {
+        "name": "Mie Goreng Jawa",
+        "price": 20000,
+        "url": "https://cdn.yummy.co.id/content-images/images/20200718/DEk4BKmpX1qRFIF1T84P5Jm54DF2pm4b-31353935303532373535d41d8cd98f00b204e9800998ecf8427e_800x800.jpg"
+      }
+    ]
+  },
+  {
+    "category":"Chinese Food",
+    "menus": [
+      {
+        "name": "Nasi Goreng Hong Kong",
+        "price": 22500,
+        "url": "https://awsimages.detik.net.id/community/media/visual/2020/06/23/nasi-goreng-hong-kong-1_43.jpeg?w=700&q=90"
+      },
+      {
+        "name": "Mie Goreng Hong Kong",
+        "price": 25000,
+        "url": "https://www.tiktak.id/wp-content/uploads/2020/10/Resep-Mi-Goreng-ala-Hong-Kong-Praktis-untuk-Sarapan.jpg"
+      },
+      {
+        "name": "Kwetiau Goreng Seafood",
+        "price": 26000,
+        "url": "https://www.masakapahariini.com/wp-content/uploads/2020/09/kwetiau-goreng-seafood-780x440.jpg"
+      },
+      {
+        "name": "Bihun Goreng Spesial",
+        "price": 24000,
+        "url": "https://theplaceboston.com/wp-content/uploads/2020/09/cara-membuat-bihun-goreng.jpg"
+      },
+      {
+        "name": "Bihun Kuah",
+        "price": 21000,
+        "url": "https://i.ytimg.com/vi/p9H6rIETNck/sddefault.jpg"
+      },
+      {
+        "name": "Dumpling Ayam (6 pcs)",
+        "price": 24000,
+        "url": "https://cdn.yummy.co.id/content-images/images/20200419/1vl8pZ5PPSLiiKq8PveGmHSUpSPm5sVA-31353837323736393236d41d8cd98f00b204e9800998ecf8427e_800x800.jpg"
+      },
+      {
+        "name": "Siomay Udang (4 pcs)",
+        "price": 24000,
+        "url": "https://cf.shopee.co.id/file/09f5b389e1f461e20fc4580f836a47e2"
+      },
+      {
+        "name": "Bakpao isi Ayam Jamur (3 pcs)",
+        "price": 21000,
+        "url": "https://selerasa.com/wp-content/uploads/2016/09/images_bakpao-ayam-jamur.jpg"
+      },
+      {
+        "name": "Sup Perut Ikan",
+        "price": 150000,
+        "url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/2/28/396c07d8-9a9d-4d43-95c2-52a66ed967be.jpg"
+      },
+      {
+        "name": "Sapo Tahu Seafood",
+        "price": 28000,
+        "url": "https://i.ytimg.com/vi/bqnQkW1TguE/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "category":"Japanese Food",
+    "menus": [
+      {
+        "name": "Tamago Sushi (3 pcs)",
+        "price": 12000,
+        "url": "https://cdn1-production-images-kly.akamaized.net/llXjr-ROlRMW3OVwdDZrhvmaAZ0=/0x0:1000x563/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3342515/original/004291600_1609995158-2021-01-06.jpg"
+      },
+      {
+        "name": "Aburi Salmon Sushi (8 pcs)",
+        "price": 32000,
+        "url": "https://awsimages.detik.net.id/community/media/visual/2020/11/25/review-sushi-mahal-vs-sushi-murah-1_43.jpeg?w=700&q=90"
+      },
+      {
+        "name": "Unagi Sushi (2 pcs)",
+        "price": 20000,
+        "url": "https://pbs.twimg.com/media/Dt1DQLpU0AAN-So.jpg"
+      },
+      {
+        "name": "Mentai Sushi Roll (4 pcs)",
+        "price": 32000,
+        "url": "https://pict.sindonews.net/dyn/850/pena/news/2020/10/20/185/201830/mentai-sushi-roll-makanan-khas-jepang-yang-bisa-dibuat-sendiri-ryo.jpg"
+      },
+      {
+        "name": "Chicken Karaage Miso Ramen",
+        "price": 65000,
+        "url": "https://dev.ibisnis.com/images/images/5e8aa34dd07ca.webp"
+      },
+      {
+        "name": "Chicken Katsu Miso Ramen",
+        "price": 65000,
+        "url": "https://www.honestfoodtalks.com/wp-content/uploads/2021/12/katsu-ramen-recipe-served-with-sweetcorn-and-pak-choi-1.jpg"
+      },
+      {
+        "name": "Shoyu Ramen",
+        "price": 68000,
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/a6/36/97/ramen-shoyu-classic.jpg"
+      },
+      {
+        "name": "Japanese Curry Rice",
+        "price": 35000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Beef_curry_rice_003.jpg"
+      },
+      {
+        "name": "Oyakodon",
+        "price": 38000,
+        "url": "https://www.justonecookbook.com/wp-content/uploads/2011/02/Oyakodon-w600-500x375.jpg"
+      },
+      {
+        "name": "Gyoza",
+        "price": 24000,
+        "url": "https://s.yimg.com/ny/api/res/1.2/IME.yFnv_HIpjOKf3DTWfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/ID/fimela_hosted_871/aa25b130ad9141f8de321730613af196"
+      }
+    ]
+  },
+  {
+    "category":"Korean Food",
+    "menus": [
+      {
+        "name": "Kimbap (8 pcs)",
+        "price": 56000,
+        "url": "https://www.beyondkimchee.com/wp-content/uploads/2021/03/thumb.jpg"
+      },
+      {
+        "name": "Tteokbokki",
+        "price": 30000,
+        "url": "https://awsimages.detik.net.id/community/media/visual/2020/10/19/tteokbokki_43.jpeg?w=700&q=90"
+      },
+      {
+        "name": "Shin Ramyun",
+        "price": 34000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ramyun_cooking_image.png"
+      },
+      {
+        "name": "Kimchi Ramyun",
+        "price": 36000,
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/0f/3a/f6/kimchi-ramyun.jpg"
+      },
+      {
+        "name": "Bibimbap",
+        "price": 40000,
+        "url": "https://cdn0-production-images-kly.akamaized.net/8MsufSZxcK3z7KPubZPO2BZZlVo=/1x61:1000x624/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3548108/original/016406500_1629692444-shutterstock_1185115657.jpg"
+      },
+      {
+        "name": "Yangnyeom Chicken",
+        "price": 70000,
+        "url": "https://i.ytimg.com/vi/XnLWBoZn710/maxresdefault.jpg"
+      },
+      {
+        "name": "Jjajangmyeon",
+        "price": 35000,
+        "url": "https://www.maangchi.com/wp-content/uploads/2007/07/jjajangmyeon-plate.jpg"
+      },
+      {
+        "name": "Bulgogi",
+        "price": 78000,
+        "url": "https://asset.kompas.com/crops/U4lI1_JCpkm6b-QsBOR5D7PUwT8=/0x0:0x0/780x390/data/photo/2020/12/23/5fe2c9413a6ce.jpg"
+      },
+      {
+        "name": "Mandu Guk",
+        "price": 38000,
+        "url": "https://www.simplyrecipes.com/thmb/Eye8QPp1L5gFAYxpN8RGQ_scOdc=/4477x2985/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Mandu-Guk-LEAD-08-b05bc837df6f4437aa31b21f6dd98326.jpg"
+      },
+      {
+        "name": "Japchae",
+        "price": 33000,
+        "url": "https://www.tiktak.id/wp-content/uploads/2020/12/Resep-Japchae-Bihun-yang-Dimakan-Keluarga-Nam-Do-San-di-Start-Up.jpg"
+      }
+    ]
+  },
+  {
+    "category":"Western Food",
+    "menus": [
+      {
+        "name": "Cheeseburger",
+        "price": 28000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/1200px-Cheeseburger.jpg"
+      },
+      {
+        "name": "Chicken Burger",
+        "price": 30000,
+        "url": "https://gofry.com.fj/wp-content/uploads/2019/04/Chicken_Burger-scaled-e1624614963511.jpg"
+      },
+      {
+        "name": "Hot Dog",
+        "price": 24000,
+        "url": "https://s2.bukalapak.com/img/233907047/large/Mesin_Sosis_Hot_Dog_GRL_ER27.jpg.webp"
+      },
+      {
+        "name": "Fish & Chips",
+        "price": 45000,
+        "url": "https://asset.kompas.com/crops/bjX_qY4_G0iQxfJUKwAgGFfZ7mE=/0x0:1000x667/750x500/data/photo/2021/11/24/619da72fb06e6.jpeg"
+      },
+      {
+        "name": "Crispy Chicken Steak",
+        "price": 65000,
+        "url": "https://rocketchicken.co.id/storage/posts/September2019/NC3ilzxcbE9JfqUrc9jO.jpg"
+      },
+      {
+        "name": "Tenderloin Steak",
+        "price": 150000,
+        "url": "https://boncafe.co.id/admin/web/upload_images/kategori_makanan/20210215032457026078.jpeg"
+      },
+      {
+        "name": "Grilled Sirloin Steak",
+        "price": 150000,
+        "url": "https://boncafe.co.id/admin/web/upload_images/kategori_makanan/20210215033100236985.jpeg"
+      },
+      {
+        "name": "Mozarella Beef Roll",
+        "price": 180000,
+        "url": "https://boncafe.co.id/admin/web/upload_images/kategori_makanan/20201124035511601300.jpg"
+      },
+      {
+        "name": "Chicken Roulade",
+        "price": 98000,
+        "url": "https://boncafe.co.id/admin/web/upload_images/kategori_makanan/20201124040257970380.jpg"
+      },
+      {
+        "name": "French Fries",
+        "price": 18000,
+        "url": "https://www.corriecooks.com/wp-content/uploads/2021/05/french-fries-instant-pot.jpg"
+      }
+    ]
+  },
+  {
+    "category":"Beverages",
+    "menus": [
+      {
+        "name": "Melon Juice",
+        "price": 25000,
+        "url": "https://cdn.istyle.im/images/product/web/27/35/98/00/0/000000983527_01_800.JPG"
+      },
+      {
+        "name": "Strawberry Juice",
+        "price": 25000,
+        "url": "https://teacoffeeanddrinks.com/wp-content/uploads/2021/05/strawberry-juice-recipe-without-milk-with-lemon-juice-f.jpg"
+      },
+      {
+        "name": "Guava Juice",
+        "price": 25000,
+        "url": "https://ihanow.com/uploads/items/009c5581c969fd9ea4f13f8fe21e0f90.jpg"
+      },
+      {
+        "name": "Orange Juice",
+        "price": 25000,
+        "url": "https://img.freepik.com/free-photo/fresh-orange-juice_144627-18386.jpg?w=2000"
+      },
+      {
+        "name": "Avocado Juice",
+        "price": 26000,
+        "url": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2014/09/Jus-Alpukat-Indonesian-Avocado-Shake.jpg?ssl=1"
+      },
+      {
+        "name": "Carrot Juice",
+        "price": 23000,
+        "url": "https://www.alphafoodie.com/wp-content/uploads/2020/11/Carrot-Juice-1-of-1.jpeg"
+      },
+      {
+        "name": "Hot Tea",
+        "price": 5000,
+        "url": "https://cdn.istyle.im/images/product/web/14/35/98/00/0/000000983514_01_800.jpg"
+      },
+      {
+        "name": "Ice Tea",
+        "price": 5000,
+        "url": "https://cdn.istyle.im/images/product/web/17/35/98/00/0/000000983517_01_800.jpg"
+      },
+      {
+        "name": "Iced Lemon Tea",
+        "price": 13000,
+        "url": "https://cdn.shopify.com/s/files/1/0581/6988/4846/products/RaffelsShopifyProduct-IceLemonTea_1024x.png?v=1626117552"
+      },
+      {
+        "name": "Ice Apple Tea",
+        "price": 12000,
+        "url": "https://cdn.yummy.co.id/content-images/images/20200613/92PwuxHvOiOmud2XAn9difUX4zrbIbIW-31353932303432333631d41d8cd98f00b204e9800998ecf8427e_800x800.jpg"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "price": 17000,
+        "url": "https://www.sharmispassions.com/wp-content/uploads/2012/02/StrawberryMilkshake4-500x500.jpg"
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "price": 17000,
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/2c/c8/81/chocolate-milkshake.jpg"
+      },
+      {
+        "name": "Vanilla Milkshake",
+        "price": 17000,
+        "url": "https://www.orchidsandsweettea.com/wp-content/uploads/2021/06/Vanilla-Milkshake-4-of-7.jpg"
+      },
+      {
+        "name": "Thai Tea",
+        "price": 11000,
+        "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2020/09/12/3918509625.jpg"
+      },
+      {
+        "name": "Green Tea",
+        "price": 11000,
+        "url": "https://www.rumahmesin.com/wp-content/uploads/2019/10/Jual-Bubuk-Minuman-di-Bekasi.png"
+      },
+      {
+        "name": "Taro Milk Tea",
+        "price": 11000,
+        "url": "https://recipemarker.com/wp-content/uploads/2020/12/Taro-Milk-Tea-Recipe.jpg"
+      }
+    ]
+  }
+]
